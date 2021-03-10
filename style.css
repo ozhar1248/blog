@@ -53,6 +53,12 @@ nav
   top: 0;
   width: 100%;
   z-index: 1;
+  height: 70px;
+}
+
+.navbar-toggle .icon-bar{
+  height:60px !important;
+  width: auto !important;
 }
 
 .section-about-me
